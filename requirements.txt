@@ -1,4 +1,4 @@
-ipykernel
+gitipykernel
 pandas
 numpy
 matplotlib
